@@ -1,0 +1,42 @@
+{
+    "name": "btechproject",
+    "version": "3.8.0",
+    "description": "Final Year Project",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start"
+    },
+    "author": "EnvyTheme.com",
+    "dependencies": {
+        "animate.css": "^4.1.1",
+        "axios": "^0.21.4",
+        "bcrypt": "^5.1.1",
+        "body-parser": "^1.20.2",
+        "cors": "^2.8.5",
+        "express": "^4.19.2",
+        "hbs": "^4.2.0",
+        "mongoose": "^8.3.3",
+        "next": "^13.1.6",
+        "nodemailer": "^6.7.5",
+        "nodemailer-sendgrid-transport": "^0.2.0",
+        "nodemon": "^3.1.0",
+        "react": "^18.2.0",
+        "react-accessible-accordion": "^5.0.0",
+        "react-dom": "^18.2.0",
+        "react-feather": "^2.0.10",
+        "react-hot-toast": "^2.4.0",
+        "react-redux": "^7.2.6",
+        "react-responsive-masonry": "^2.1.5",
+        "react-slick": "^0.29.0",
+        "react-tabs": "^5.1.0",
+        "redux": "^3.6.0",
+        "redux-devtools-extension": "^2.13.9",
+        "sass": "^1.43.4",
+        "sweetalert2": "^11.4.19",
+        "sweetalert2-react-content": "^5.0.0",
+        "swiper": "^8.3.2"
+    },
+    "license": "MIT"
+}
